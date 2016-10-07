@@ -5,6 +5,7 @@ testvar_deux: My wonderful deuxieme variable
 ---
 
 # <i class='fa fa-bullhorn fa-rotate--20'></i> Xav test
+
 ## Bonjour 
 
 Ceci est un *texte a la con*
